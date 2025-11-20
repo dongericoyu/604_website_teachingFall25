@@ -9,6 +9,7 @@ about:
 :::{#me}
 
 ## Goals
+my goal is to help students to build up the website
 
 ## Education
 
