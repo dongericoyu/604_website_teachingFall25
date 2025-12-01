@@ -17,4 +17,4 @@ my goal is to help students to build up the website
 
 :::
 
-Thanks for checking out my web site!
+Now I am demonstrating how to use github in 601. Today is Dec 1, 2025.
